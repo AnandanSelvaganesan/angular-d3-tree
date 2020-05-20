@@ -1,0 +1,45 @@
+.d3-chart {
+  width: 100%;
+  min-height:600px;
+}
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 0.2px;
+}
+
+.node text {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 0.5px;
+}
+
+.active {
+  stroke-width: 1px !important;
+}
+.selected text{
+  stroke-width: 2px !important;
+  fill: #0f0;
+}
+
+.ghostCircle.show{
+    display:block;
+}
+.ghostCircle.over{
+  fill: green !important;
+  stroke: steelblue;
+  stroke-width: 0.2px;
+}
+
+.ghostCircle, .active .ghostCircle{
+     display: none;
+}
+.templink {
+  fill: none;
+  stroke: red;
+  stroke-width: 3px;
+}
