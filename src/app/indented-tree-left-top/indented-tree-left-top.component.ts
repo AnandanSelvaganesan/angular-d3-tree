@@ -1,6 +1,6 @@
 import { Component, OnInit, ViewChild, ElementRef } from '@angular/core';
 import * as d3 from "d3";
-import *  as  dataJson from '../data.json';
+import *  as  dataJson from '../flare.json';
 
 @Component({
   selector: 'app-indented-tree-left-top',
@@ -9,7 +9,7 @@ import *  as  dataJson from '../data.json';
 })
 export class IndentedTreeLeftTopComponent implements OnInit {
 
-  @ViewChild('chart2', { static: true }) private chartContainer: ElementRef;
+  @ViewChild('chart3', { static: true }) private chartContainer: ElementRef;
   data: any = (dataJson as any).default;
 
   constructor() { }
@@ -35,6 +35,7 @@ export class IndentedTreeLeftTopComponent implements OnInit {
     let svg = d3.select(element).append("svg")
       .attr("width", element.offsetWidth) //+ margin.left + margin.right)
       .attr('height', element.offsetHeight)
+      .attr("id", "chart3svg")
       .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -53,7 +54,7 @@ export class IndentedTreeLeftTopComponent implements OnInit {
       let height = Math.max(500, nodes.length * barHeight * 2 + margin.top + margin.bottom);
 
       //console.log(nodes.length);
-      d3.select("svg").transition()
+      d3.select("svg#chart3svg").transition()
         .duration(duration)
         .attr("height", height);
 

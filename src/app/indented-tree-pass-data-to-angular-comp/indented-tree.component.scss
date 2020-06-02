@@ -1,0 +1,88 @@
+.d3-chart {
+    width: 100%;
+    min-height:600px;
+    border: 1px solid gray;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 600px;
+}
+
+::ng-deep #chart4svg .node rect {
+    cursor: pointer;
+    fill: #fff;
+    stroke: #00BE4F;
+    fill-opacity: 1;
+    stroke-width: 1.5px;
+}
+  
+::ng-deep #chart4svg .node rect.selected-node + text {
+    fill: #fff;
+}
+
+::ng-deep #chart4svg .node rect.selected-node {
+    fill: #00BE4F;
+}
+
+::ng-deep .node text, ::ng-deep .tooltip-g text {
+    font: 12px sans-serif;
+    pointer-events: none;
+}
+  
+::ng-deep .context-menu-g text, ::ng-deep .node-text {
+    font: 12px sans-serif;
+}
+
+::ng-deep .node-text {
+    margin-bottom: 10px;
+}
+
+::ng-deep .context-menu-rect, ::ng-deep .tooltip-rect {
+    fill: #bae1fb;
+}
+
+::ng-deep .tooltip-text {
+    fill: #000;
+}
+
+::ng-deep .context-menu-g .context-menu-title {
+    font-weight: bold;
+}
+
+::ng-deep .link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 1px;
+}
+
+::ng-deep div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 100px;
+  height: 10px;
+  padding: 8px;
+  font: 10px sans-serif;
+  background: #ffff99;
+  border: solid 1px #aaa;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+#custom-context-menu {
+  display: none;
+  width: 100px;
+  height: 100px;
+  background: red;
+}
+
+::ng-deep .divider {
+    border-bottom: 1px #bebebe solid;
+    margin: 5px 0;
+}
+
+::ng-deep .menu-heading {
+    margin: 10px 0 5px;
+}
+
+::ng-deep .menu-content span, ::ng-deep .menu-sub-content span {
+    float: right;
+}
