@@ -1,5 +1,7 @@
 # D3tree
 
+![tree-view](https://github.com/AnandanSelvaganesan/angular-d3-tree/blob/master/src/assets/tree-view.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.5.
 
 ## Development server
