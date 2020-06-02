@@ -1,48 +1,48 @@
 {
-  "name": "Maverin_Voice",
-  "tooltip": "Mavenir_Voice or any full name",
+  "name": "A1",
+  "tooltip": "A1 tooltip",
   "contextMenu": {
-    "title":"Maverin_Voice",
+    "title":"A1",
     "content": "",
     "subContent":""
   },
   "value": 100,
   "children": [
     {
-      "name": "NSSD 1",
-      "tooltip": "NSSD 1 or any full name",
+      "name": "B1",
+      "tooltip": "B1 tooltip",
       "contextMenu": {
-        "title":"NSSD 1 | Maverin_Voice",
+        "title":"B1 | A1",
         "content": "",
         "subContent":""
       },
       "value": 100,
       "children": [
         {
-          "name": "NF 1",
-          "tooltip": "NF 1 or any full name",
+          "name": "C1",
+          "tooltip": "C1 tooltip",
           "contextMenu": {
-            "title":"NF 1 | NSSD 1 | Maverin_Voice",
+            "title":"C1 | B1 | A1",
             "content": "",
             "subContent":""
           },
           "value": 100
         },
         {
-          "name": "NF 2",
-          "tooltip": "NF 2 or any full name",
+          "name": "C2",
+          "tooltip": "C2 tooltip",
           "contextMenu": {
-            "title":"NF 2 | NSSD 1 | Maverin_Voice",
+            "title":"C2 | B1 | A1",
             "content": "",
             "subContent":""
           },
           "value": 300
         },
         {
-          "name": "NF 3",
-          "tooltip": "NF 3 or any full name",
+          "name": "C3",
+          "tooltip": "C3 tooltip",
           "contextMenu": {
-            "title":"NF 3 | NSSD 1 | Maverin_Voice",
+            "title":"C3 | B1 | A1",
             "content": "",
             "subContent":""
           },
@@ -51,180 +51,180 @@
       ]
     },
     {
-      "name": "NSSD 2",
-      "tooltip": "NSSD 2 or any full name",
+      "name": "B2",
+      "tooltip": "B2 tooltip",
       "contextMenu": {
-        "title":"NSSD 2 | Maverin_Voice",
+        "title":"B2 | A1",
         "content": "",
         "subContent":""
       },
       "value": 200,
       "children": [
         {
-          "name": "NF 4",
-          "tooltip": "NF 4 or any full name",
+          "name": "C4",
+          "tooltip": "C4 tooltip",
           "contextMenu": {
-            "title":"NF 4 | NSSD 2 | Maverin_Voice",
+            "title":"C4 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 100
         },
         {
-          "name": "NF 5",
-          "tooltip": "NF 5 or any full name",
+          "name": "C5",
+          "tooltip": "C5 tooltip",
           "contextMenu": {
-            "title":"NF 5 | NSSD 2 | Maverin_Voice",
+            "title":"C5 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 300
         },
         {
-          "name": "NF 6",
-          "tooltip": "NF 6 or any full name",
+          "name": "C6",
+          "tooltip": "C6 tooltip",
           "contextMenu": {
-            "title":"NF 6 | NSSD 2 | Maverin_Voice",
+            "title":"C6 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 200
         },
         {
-          "name": "NF 7",
-          "tooltip": "NF 7 or any full name",
+          "name": "C7",
+          "tooltip": "C7 tooltip",
           "contextMenu": {
-            "title":"NF 8 | NSSD 2 | Maverin_Voice",
+            "title":"C7 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 100
         },
         {
-          "name": "NF 8",
-          "tooltip": "NF 8 or any full name",
+          "name": "C8",
+          "tooltip": "C8 tooltip",
           "contextMenu": {
-            "title":"NF 8 | NSSD 2 | Maverin_Voice",
+            "title":"C8 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 300
         },
         {
-          "name": "NF 9",
-          "tooltip": "NF 9 or any full name",
+          "name": "C9",
+          "tooltip": "C9 tooltip",
           "contextMenu": {
-            "title":"NF 9 | NSSD 2 | Maverin_Voice",
+            "title":"C9 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 200
         },
         {
-          "name": "NF 10",
-          "tooltip": "NF 10 or any full name",
+          "name": "C10",
+          "tooltip": "C10 tooltip",
           "contextMenu": {
-            "title":"NF 10 | NSSD 2 | Maverin_Voice",
+            "title":"C10 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 100
         },
         {
-          "name": "NF 11",
-          "tooltip": "NF 11 or any full name",
+          "name": "C11",
+          "tooltip": "C11 tooltip",
           "contextMenu": {
-            "title":"NF 11 | NSSD 2 | Maverin_Voice",
+            "title":"C11 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 300
         },
         {
-          "name": "NF 12",
-          "tooltip": "NF 12 or any full name",
+          "name": "C12",
+          "tooltip": "C12 tooltip",
           "contextMenu": {
-            "title":"NF 13 | NSSD 2 | Maverin_Voice",
+            "title":"C12 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 200
         },
         {
-          "name": "NF 13",
-          "tooltip": "NF 13 or any full name",
+          "name": "C13",
+          "tooltip": "C13 tooltip",
           "contextMenu": {
-            "title":"NF 13 | NSSD 2 | Maverin_Voice",
+            "title":"C13 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 200
         },
         {
-          "name": "NF 14",
-          "tooltip": "NF 14 or any full name",
+          "name": "C14",
+          "tooltip": "C14 tooltip",
           "contextMenu": {
-            "title":"NF 14 | NSSD 2 | Maverin_Voice",
+            "title":"C14 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 100
         },
         {
-          "name": "NF 15",
-          "tooltip": "NF 15 or any full name",
+          "name": "C15",
+          "tooltip": "C15 tooltip",
           "contextMenu": {
-            "title":"NF 15 | NSSD 2 | Maverin_Voice",
+            "title":"C15 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 300
         },
         {
-          "name": "NF 16",
-          "tooltip": "NF 16 or any full name",
+          "name": "C16",
+          "tooltip": "C16 tooltip",
           "contextMenu": {
-            "title":"NF 16 | NSSD 2 | Maverin_Voice",
+            "title":"C16 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 200
         },
         {
-          "name": "NF 17",
-          "tooltip": "NF 17 or any full name",
+          "name": "C17",
+          "tooltip": "C17 tooltip",
           "contextMenu": {
-            "title":"NF 17 | NSSD 2 | Maverin_Voice",
+            "title":"C17 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 100
         },
         {
-          "name": "NF 18",
-          "tooltip": "NF 18 or any full name",
+          "name": "C18",
+          "tooltip": "C18 tooltip",
           "contextMenu": {
-            "title":"NF 18 | NSSD 2 | Maverin_Voice",
+            "title":"C18 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 300
         },
         {
-          "name": "NF 19",
-          "tooltip": "NF 19 or any full name",
+          "name": "C19",
+          "tooltip": "C19 tooltip",
           "contextMenu": {
-            "title":"NF 19 | NSSD 2 | Maverin_Voice",
+            "title":"C19 | B2 | A1",
             "content": "",
             "subContent":""
           },
           "value": 200
         },
         {
-          "name": "NF 20",
-          "tooltip": "NF 20 or any full name",
+          "name": "C20",
+          "tooltip": "C20 tooltip",
           "contextMenu": {
-            "title":"NF 20 | NSSD 2 | Maverin_Voice",
+            "title":"C20 | B2 | A1",
             "content": "",
             "subContent":""
           },
@@ -233,40 +233,40 @@
       ]
     },
     {
-        "name": "NSSD 3",
-        "tooltip": "NSSD 3 or any full name",
+        "name": "B3",
+        "tooltip": "B3 tooltip",
         "contextMenu": {
-          "title":"NSSD 3 | Maverin_Voice",
+          "title":"B3 | A1",
           "content": "",
           "subContent":""
         },
         "value": 200,
         "children": [
           {
-            "name": "NF 27",
-            "tooltip": "NF 27 or any full name",
+            "name": "C27",
+            "tooltip": "C27 tooltip",
             "contextMenu": {
-              "title":"NF 27 | NSSD 3 | Maverin_Voice",
+              "title":"C27 | B3 | A1",
               "content": "",
               "subContent":""
             },
             "value": 100
           },
           {
-            "name": "NF 28",
-            "tooltip": "NF 28 or any full name",
+            "name": "C28",
+            "tooltip": "C28 tooltip",
             "contextMenu": {
-              "title":"NF 28 | NSSD 3 | Maverin_Voice",
+              "title":"C28 | B3 | A1",
               "content": "",
               "subContent":""
             },
             "value": 300
           },
           {
-            "name": "NF 29",
-            "tooltip": "NF 29 or any full name",
+            "name": "C29",
+            "tooltip": "C29 tooltip",
             "contextMenu": {
-              "title":"NF 29 | NSSD 3 | Maverin_Voice",
+              "title":"C29 | B3 | A1",
               "content": "",
               "subContent":""
             },

@@ -243,7 +243,7 @@ export class IndentedTreeComponentD3ToAngComp implements OnInit, AfterViewInit {
 
     nodeEnterTooltip.append("text")
       .attr('id', function (d: any) { return 'nodeInfoTextID' + d.id; })
-      .attr('x', 135)
+      .attr('x', 128)
       .attr('y', 4)
       .attr('class', 'tooltip-text')
       .attr('visibility', 'hidden')
